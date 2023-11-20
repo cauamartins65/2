@@ -1,2 +1,1 @@
-# 2
-2
+Git clone <https://link-com-o-nome-do-repositório>
